@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+
+}
+
+@font-face {
+  font-family: customFont;
+  src: url(./fonts/silka-regular-webfont.ttf);
+}
+
+body {
+  font-family: customFont ;
 }
